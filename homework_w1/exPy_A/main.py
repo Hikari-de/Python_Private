@@ -1,4 +1,3 @@
-
 math_score = float(input("Enter math score: "))
 english_score = float(input("Enter english score: "))
 python_score = float(input("Enter python score: "))
